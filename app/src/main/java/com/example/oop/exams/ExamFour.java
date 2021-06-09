@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.exams;
 
 public class ExamFour {
     //Parametre olarak girilen kelime ve harf için harfin kelime içinde kaç adet olduğunu gösteren bir method yazınız.

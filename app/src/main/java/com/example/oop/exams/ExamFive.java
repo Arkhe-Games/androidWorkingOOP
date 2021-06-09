@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.exams;
 
 public class ExamFive {
     // Parametre olarak girilen kenar sayısına göre iç açılar toplamını hesaplayıp sonucu geri gönderen metodu yazınız.

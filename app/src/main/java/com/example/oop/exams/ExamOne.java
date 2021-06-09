@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.exams;
 
 public class ExamOne {
     // parametere olarak girilen dereceyi fahrenheit'a dönüştürdükten sonra geri döndüren metodu yazınız.T=T*1,8+32

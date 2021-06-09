@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.exams;
 
 public class ExamTwo {
     // Kenarları parametre olarak girilen ve dikdörtgenin çevresini hesaplayan bir metod yazınız.

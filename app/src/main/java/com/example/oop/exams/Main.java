@@ -1,4 +1,11 @@
-package com.example.oop;
+package com.example.oop.exams;
+
+import com.example.oop.exams.ExamFive;
+import com.example.oop.exams.ExamFour;
+import com.example.oop.exams.ExamOne;
+import com.example.oop.exams.ExamSix;
+import com.example.oop.exams.ExamThree;
+import com.example.oop.exams.ExamTwo;
 
 public class Main {
     public static void main(String args[]){

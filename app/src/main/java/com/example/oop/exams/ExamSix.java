@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.exams;
 
 public class ExamSix {
     /* Parametre olarak girilen gün sayısına göre maaş hesabı yapan ve elde edilen değeri geri

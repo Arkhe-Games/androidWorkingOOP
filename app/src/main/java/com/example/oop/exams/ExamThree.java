@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.exams;
 
 public class ExamThree {
     // Parametre olarak girilen sayının faktoriyel değerini hesaplayıp geri döndüren metodu yazınız.
